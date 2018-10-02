@@ -2,7 +2,7 @@
 
 * WebPage [here]()
 * Lightning [here](https://ryggj.github.io/lightning2/)
-* Lightning JS [here]()
+* Lightning JS [here](https://ryggj.github.io/lightning2/lightningP5js/index.html)
 * Dice [here](https://ryggj.github.io/dice3/)
 
 ```Java
