@@ -5,7 +5,7 @@
 * Lightning JS [here](https://ryggj.github.io/lightning2/lightningP5js/index.html)
 * Dice [here](https://ryggj.github.io/dice3/)
 * Chemotaxis JS [here](https://ryggj.github.io/chemotaxis4/ChemoJS/)
-* Starfield [here](https://ryggj.github.io/starfield5/index.html)
+* Starfield [here](https://knowyourmeme.com/memes/trollface)
 
 ```Java
   if (num==6) {
