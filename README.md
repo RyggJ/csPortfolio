@@ -6,7 +6,7 @@
 * Dice [here](https://ryggj.github.io/dice3/)
 * Chemotaxis JS [here](https://ryggj.github.io/chemotaxis4/ChemoJS/)
 * Starfield [here](https://ryggj.github.io/starfield5/)
-* Minesweeper [here] (https://ryggj.github.io/Minesweeper/)
+* Minesweeper [here](https://ryggj.github.io/Minesweeper/)
 
 ```Java
  void draw(){
