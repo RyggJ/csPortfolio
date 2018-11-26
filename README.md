@@ -6,27 +6,30 @@
 * Dice [here](https://ryggj.github.io/dice3/)
 * Chemotaxis JS [here](https://ryggj.github.io/chemotaxis4/ChemoJS/)
 * Starfield [here](https://ryggj.github.io/starfield5/)
+* Minesweeper [here] (https://ryggj.github.io/Minesweeper/)
 
 ```Java
-  class bloon{
-  int bloonX=(int)(Math.random()*800+100);
-  double bloonY=Math.random()*100+450;
-  double bloonV=100;
-  double bloonTime=0;
-  double xInc=(Math.random()*7)-3;
-  int colorPick=(int)(Math.random()*5);
-  int bloonR,bloonG,bloonB;
-  boolean popped=false;
-  void move(){
-    bloonTime+=.001;
-    if(bloonX>960||bloonX<0){
-      xInc*=-1;
-    }
-    bloonX+=xInc;
-    bloonY-=(bloonV*bloonTime)+(.49*bloonTime*bloonTime);
-    bloonV-=9.8*bloonTime;
-    if (bloonY>500){
-      contact();
+ void draw(){
+  for(int i=0;i<cols;i++){
+    for(int j=0;j<rows;j++){
+      blocks[i][j].show();
+      if(blocks[i][j].getHit()&&blocks[i][j].getBomb()){
+        go=true;
+      }
+      if(testWin()){
+        win=true;
+      }
     }
   }
+  select();
+  if(go==true){
+    gameover();
+  }
+  if(win==true){
+    winner();
+  }
+  if(keyPressed&&key=='r'){
+    reset();
+  }
+} 
 ```
