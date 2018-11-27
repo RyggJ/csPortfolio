@@ -1,6 +1,6 @@
 # csPortfolio
 
-* Webpage [here](https://ryggj.github.io/testWeb/dogPage/dogPage/) Repository [here](https://github.com/RyggJ/testWeb)
+* Webpage [dogs](https://ryggj.github.io/testWeb/dogPage/dogPage/) Repository [dogs](https://github.com/RyggJ/testWeb)
 <br><br>It was tough for me to pick up on a new language so different from Java, but it was much easier to pick up on than Java.
 ---
 * Lightning [here](https://ryggj.github.io/lightning2/) Repository [here](https://github.com/RyggJ/lightning2)
