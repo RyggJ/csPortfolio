@@ -18,6 +18,9 @@
 * Starfield [uses trig](https://ryggj.github.io/starfield5/) Repository [with sneak peak of another project](https://github.com/RyggJ/starfield5)
 <br><br>I thought it was cool to see how you could use sine and cosine in computer science to help with circular motion.
 ---
+* Bloonbounce [is a bit buggy](https://ryggj.github.io/bloonBounce/) Repository [doesn't bounce well](https://github.com/RyggJ/bloonBounce)
+<br><br>This was my first project attempting to implement formulas from Physics. I would like to continue work on this because it's a bit buggy as far as hit registration goes.
+---
 * Minesweeper [is fun](https://ryggj.github.io/Minesweeper/) Repository [not a bomb...](https://github.com/RyggJ/minesweeper)
 <br><br>This was probably my favorite project, inspired by programmers on youtube. I enjoyed playing minesweeper, and decided to follow their footsteps by coding my own version. However, I noticed my hand would get tired after clicking on my laptop's mousepad over and over again. To fix this I added controls that implement the keyboard. This also allowed for more accurate flagging, since right-clicking was tetious and sometimes game-costing on the mousepad.
 <br>
