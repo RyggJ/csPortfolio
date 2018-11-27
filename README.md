@@ -1,9 +1,9 @@
 # csPortfolio
 
-* Webpage [dogs](https://ryggj.github.io/testWeb/dogPage/dogPage/) Repository [dogs](https://github.com/RyggJ/testWeb)
+* Webpage [dogs](https://ryggj.github.io/testWeb/dogPage/dogPage/) Repository [full of pics](https://github.com/RyggJ/testWeb)
 <br><br>It was tough for me to pick up on a new language so different from Java, but it was much easier to pick up on than Java.
 ---
-* Lightning [here](https://ryggj.github.io/lightning2/) Repository [here](https://github.com/RyggJ/lightning2)
+* Lightning [not thunder](https://ryggj.github.io/lightning2/) Repository [includes p5.js](https://github.com/RyggJ/lightning2)
 <br><br>I thought it was cool how the while loop drew a bunch of lines rather than just one jagged line, and felt that my biggest achievement here was getting the color of lightning to change based on where the mouse was.
 ---
 * Lightning JS [here](https://ryggj.github.io/lightning2/lightningP5js/index.html) Repository [here](https://github.com/RyggJ/lightning2)
