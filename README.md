@@ -12,9 +12,15 @@
 * Dice [here](https://ryggj.github.io/dice3/) Repository [here](https://github.com/RyggJ/dice3)
 <br><br>I remember tinkering around a lot with this one trying to decide what a winning roll would sum up to, and it was when I began to pick colors that were easy on the eyes ft. sky blue background.
 ---
-* Chemotaxis JS [here](https://ryggj.github.io/chemotaxis4/ChemoJS/)
-* Starfield [here](https://ryggj.github.io/starfield5/)
-* Minesweeper [here](https://ryggj.github.io/Minesweeper/)
+* Chemotaxis JS [here](https://ryggj.github.io/chemotaxis4/ChemoJS/) Repository [here](https://github.com/RyggJ/chemotaxis4)
+<br><br>I had a difficult time getting this one to both be able to run alone and last long enough to make it past one go but not so long it would take hours to finish.
+---
+* Starfield [here](https://ryggj.github.io/starfield5/) Repository [here](https://github.com/RyggJ/starfield5)
+<br><br>I thought it was cool to see how you could use sine and cosine in computer science to help with circular motion.
+---
+* Minesweeper [here](https://ryggj.github.io/Minesweeper/) Repository [here](https://github.com/RyggJ/minesweeper)
+<br><br>This was probably my favorite project, inspired by programmers on youtube. I enjoyed playing minesweeper, and decided to follow their footsteps by coding my own version. However, I noticed my hand would get tired after clicking on my laptop's mousepad over and over again. To fix this I added controls that implement the keyboard. This also allowed for more accurate flagging, since right-clicking was tetious and sometimes game-costing on the mousepad.
+<br>
 
 ```Java
  void draw(){
