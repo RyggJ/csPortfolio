@@ -6,19 +6,19 @@
 * Lightning [not thunder](https://ryggj.github.io/lightning2/) Repository [includes p5.js](https://github.com/RyggJ/lightning2)
 <br><br>I thought it was cool how the while loop drew a bunch of lines rather than just one jagged line, and felt that my biggest achievement here was getting the color of lightning to change based on where the mouse was.
 ---
-* Lightning JS [here](https://ryggj.github.io/lightning2/lightningP5js/index.html) Repository [here](https://github.com/RyggJ/lightning2)
+* Lightning JS [still not thunder](https://ryggj.github.io/lightning2/lightningP5js/index.html) Repository [same as Java](https://github.com/RyggJ/lightning2)
 <br><br>This was my first time taking a look at Javascript, and I was not a very big fan of it at first. It seems too vague to do much good, but after learning more and looking at more coding I can see how much potential it really has.
 ---
-* Dice [here](https://ryggj.github.io/dice3/) Repository [here](https://github.com/RyggJ/dice3)
+* Dice [game](https://ryggj.github.io/dice3/) Repository [kinda messy](https://github.com/RyggJ/dice3)
 <br><br>I remember tinkering around a lot with this one trying to decide what a winning roll would sum up to, and it was when I began to pick colors that were easy on the eyes ft. sky blue background.
 ---
-* Chemotaxis JS [here](https://ryggj.github.io/chemotaxis4/ChemoJS/) Repository [here](https://github.com/RyggJ/chemotaxis4)
+* Chemotaxis JS [spooky](https://ryggj.github.io/chemotaxis4/ChemoJS/) Repository [originally in Java](https://github.com/RyggJ/chemotaxis4)
 <br><br>I had a difficult time getting this one to both be able to run alone and last long enough to make it past one go but not so long it would take hours to finish.
 ---
-* Starfield [here](https://ryggj.github.io/starfield5/) Repository [here](https://github.com/RyggJ/starfield5)
+* Starfield [uses trig](https://ryggj.github.io/starfield5/) Repository [with sneak peak of another project](https://github.com/RyggJ/starfield5)
 <br><br>I thought it was cool to see how you could use sine and cosine in computer science to help with circular motion.
 ---
-* Minesweeper [here](https://ryggj.github.io/Minesweeper/) Repository [here](https://github.com/RyggJ/minesweeper)
+* Minesweeper [is fun](https://ryggj.github.io/Minesweeper/) Repository [not a bomb...](https://github.com/RyggJ/minesweeper)
 <br><br>This was probably my favorite project, inspired by programmers on youtube. I enjoyed playing minesweeper, and decided to follow their footsteps by coding my own version. However, I noticed my hand would get tired after clicking on my laptop's mousepad over and over again. To fix this I added controls that implement the keyboard. This also allowed for more accurate flagging, since right-clicking was tetious and sometimes game-costing on the mousepad.
 <br>
 
