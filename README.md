@@ -1,6 +1,31 @@
 # csPortfolio
 
 * Webpage [here](https://ryggj.github.io/testWeb/dogPage/dogPage/) Repository [here](https://github.com/RyggJ/testWeb)
+```html
+<html>
+<head>
+<title>Nosey Josie</title>
+<style>
+body{
+background: blue;
+}
+li{
+	color: black;
+	font-size: 30px;
+}
+h1{
+	color: black;
+}
+h2{
+	color: red;
+}
+img{
+	padding:4px;
+	border:8px solid black;
+}
+</style>
+</head>
+```
 ---
 * Lightning [here](https://ryggj.github.io/lightning2/)
 * Lightning JS [here](https://ryggj.github.io/lightning2/lightningP5js/index.html)
