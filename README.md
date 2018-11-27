@@ -18,6 +18,9 @@
 * Starfield [uses trig](https://ryggj.github.io/starfield5/) Repository [with sneak peak of another project](https://github.com/RyggJ/starfield5)
 <br><br>I thought it was cool to see how you could use sine and cosine in computer science to help with circular motion.
 ---
+* RGB Color Picker [in beta](https://ryggj.github.io/RGBcolorPicker/) Repository [isn't colorful](https://github.com/RyggJ/RGBcolorPicker)
+<br><br>This was a project I started to figure out how to make the visuals behind a color picker. To my surprise, it was a lot simpler than I thought, just a bunch of squares drawn by a nested for loop.
+---
 * Bloonbounce [is a bit buggy](https://ryggj.github.io/bloonBounce/) Repository [doesn't bounce well](https://github.com/RyggJ/bloonBounce)
 <br><br>This was my first project attempting to implement formulas from Physics. I would like to continue work on this because it's a bit buggy as far as hit registration goes.
 ---
