@@ -47,3 +47,4 @@
   }
 } 
 ```
+The code above is my draw() for minesweeper. It runs through a nested for loop to check each "block" in the game. It checks for a gameover (boolean go), which is when a block is hit and contains a bomb (getHit() and getBomb() would both return true). It also checks to see if the player has won yet, by using testWin() (testWin checks to see that all of the spaces that aren't bombs have been hit, and returns true if they have been). After that it runs select() (This method is the one that deals with all keyboard inputs, and keeps track of the selected block). And finally, if go or win are true, the game will end and text will show saying whether or not the player won. Otherwise this checks to see if the player has reset the game, which will completely reset the 2D array I used to store all of the blocks. This was definitely my best project, and I still like working on it often.
