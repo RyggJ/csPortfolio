@@ -1,11 +1,8 @@
 # csPortfolio
 
-<details>
- <summary>Webpage</summary>
- <br>
-[here](https://ryggj.github.io/testWeb/dogPage/dogPage/)
- </br>
 
+ <summary>Webpage</summary>
+* Webpage [here](https://ryggj.github.io/testWeb/dogPage/dogPage/)
 * Lightning [here](https://ryggj.github.io/lightning2/)
 * Lightning JS [here](https://ryggj.github.io/lightning2/lightningP5js/index.html)
 * Dice [here](https://ryggj.github.io/dice3/)
