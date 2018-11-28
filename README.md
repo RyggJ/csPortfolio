@@ -25,6 +25,7 @@
 <br><br>This was my first project attempting to implement formulas from Physics. I would like to continue work on this because it's a bit buggy as far as hit registration goes.
 ---
 * Christmas Card [not working](https://ryggj.github.io/ChristmasCard/) Repository [seems fine](https://github.com/RyggJ/ChristmasCard)
+---
 * Minesweeper [is fun](https://ryggj.github.io/Minesweeper/) Repository [not a bomb...](https://github.com/RyggJ/minesweeper)
 <br><br>This was probably my favorite project, inspired by programmers on youtube. I enjoyed playing minesweeper, and decided to follow their footsteps by coding my own version. However, I noticed my hand would get tired after clicking on my laptop's mousepad over and over again. To fix this I added controls that implement the keyboard. This also allowed for more accurate flagging, since right-clicking was tetious and sometimes game-costing on the mousepad.
 <br>
