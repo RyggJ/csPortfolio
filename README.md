@@ -29,6 +29,11 @@
 ---
 * Minesweeper [is fun](https://ryggj.github.io/Minesweeper/) Repository [not a bomb...](https://github.com/RyggJ/minesweeper)
 <br><br>This was probably my favorite project, inspired by programmers on youtube. I enjoyed playing minesweeper, and decided to follow their footsteps by coding my own version. However, I noticed my hand would get tired after clicking on my laptop's mousepad over and over again. To fix this I added controls that implement the keyboard. This also allowed for more accurate flagging, since right-clicking was tetious and sometimes game-costing on the mousepad.
+---
+* Olympic Database [is too big]() Repository [has full data set]()
+<br><br>This was a difficult project most in the sense that the data was fairly difficult to work with. It didn't have a good delimiter because of the occasional typo and all numbers greater than 999 used a comma, the intended delimiter(ex. 1,000) and some lines had to many pieces of data. After cleaning the data up, it was fairly easy to create the visuals and mechanics themselves.
+* Markov's Wardrobe [is stylish]() Repository [like a closet]()
+<br><br>This project took a while just because of the trainer class, which came to about 1200-1300 lines. While there may be a better way to have done this (I can almost guarantee there is), I am proud that most of what I hard-coded worked the way I intended within this class itself. I named it after Markov because my original idea was to just make a 100% Markov chain, but as I worked more and more it took on new aspects.
 <br>
 
 ```Java
